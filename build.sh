@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build --tag sirmar/development-environment .
+docker build --no-cache --tag sirmar/development-environment .
